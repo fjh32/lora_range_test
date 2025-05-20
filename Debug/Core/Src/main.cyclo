@@ -1,0 +1,7 @@
+../Core/Src/main.c:59:6:HAL_GPIO_EXTI_Rising_Callback	4
+../Core/Src/main.c:82:6:lora_setup	2
+../Core/Src/main.c:109:6:transmitter_loop	1
+../Core/Src/main.c:134:6:receiver_loop	1
+../Core/Src/main.c:159:5:main	1
+../Core/Src/main.c:215:6:SystemClock_Config	3
+../Core/Src/main.c:259:6:Error_Handler	1

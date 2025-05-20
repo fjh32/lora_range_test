@@ -1,0 +1,3 @@
+../Core/Src/uart_print.c:20:13:init_uart_print	16	static
+../Core/Src/uart_print.c:36:6:uart_print_init	16	static
+../Core/Src/uart_print.c:41:6:uart_print	64	dynamic
