@@ -1,5 +1,6 @@
 "./Core/Src/LoRa.o"
 "./Core/Src/gpio.o"
+"./Core/Src/lora_ack.o"
 "./Core/Src/main.o"
 "./Core/Src/spi.o"
 "./Core/Src/stm32g0xx_hal_msp.o"
